@@ -69,5 +69,5 @@ In R Studio for Windows, the following procedure can be used:
 In the IRESdroughts/ directory (parent of /src), create a /data and a /results directory.
 Transfer /src/GRDCdat.zip in the data directory and unzip it.
 
-##To reproduce figures  
+## To reproduce figures  
 To reproduce Figure 2, run plot_GRDC.R
