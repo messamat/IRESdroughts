@@ -37,7 +37,7 @@ All scripts rely on this structure.
 **Dependency management**: the R library of this project is managed by [renv](https://rstudio.github.io/renv/articles/renv.html).
 This makes sure that the exact same package versions are used when recreating the project.
 When calling `renv::restore()`, all required packages will be installed with their specific version. 
-Please note that this project was built with R version 4.4 on a Windows 10 operating system.
+Please note that this project was built with R version 4.0 on a Windows 10 operating system.
 
 **Syntax**: this analysis relies on the [data.table](https://rdatatable.gitlab.io/data.table/) syntax,
 which provides a high-performance version of data.frame. 
